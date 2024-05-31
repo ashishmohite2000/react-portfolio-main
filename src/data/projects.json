@@ -1,0 +1,26 @@
+[
+  {
+    "title": "canteen management",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app using kotlin.",
+    "skills": ["Kotlin", "Android studio", "Java"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Flat4u",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to use the website or pg and rental rooms in react",
+    "skills": ["React", "tailwind", "mongodb"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "food delivery app",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the flutter language by building an app.",
+    "skills": ["Flutter", "dart", "Android studio"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]

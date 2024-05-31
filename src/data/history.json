@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Website development (freelancer)",
+    "organisation": "Flat4U.net",
+    "startDate": "March 2024",
+    "endDate": "April 2024",
+    "experiences": ["Worked on developing the webiste in react", "Deploying it on server successfully."]
+  },
+  {
+    "role": "Social media management (freelancer)",
+    "organisation": "Propsteps.com",
+    "startDate": "Jan 2024",
+    "endDate": "Present",
+    "experiences": ["Worked on managing social media", "Making the site seo optimized"]
+  },
+  {
+    "role": "Website management",
+    "organisation": "Hari Om estate",
+    "startDate": "Aug, 2021",
+    "endDate": "May, 2022",
+    "experiences": [
+      "Worked on updating website",
+      "Managed their social media accounts."
+    ]
+  }
+]
+ 
